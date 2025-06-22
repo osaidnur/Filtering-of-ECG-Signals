@@ -1,6 +1,6 @@
 # 🫀 ECG Signal Filtering Project
 
-## � Table of Contents
+## 📕 Table of Contents
 
 - [📋 Project Overview](#-project-overview)
 - [🎯 Project Objectives](#-project-objectives)
@@ -123,6 +123,7 @@ Filtering-of-ECG-Signals/
 ├── DSP_project.py          # Main application script
 ├── Data_ECG_raw.xlsx       # Raw ECG signal data
 ├── Project Report.pdf      # Detailed technical report
+├── Project_Description.pdf # Project requirements and specifications
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 ```
